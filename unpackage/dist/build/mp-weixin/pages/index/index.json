@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "小明日报",
+  "usingComponents": {
+    "newsbox": "/components/newsbox/newsbox"
+  }
+}
